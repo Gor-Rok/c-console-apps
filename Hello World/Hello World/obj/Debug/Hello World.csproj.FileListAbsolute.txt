@@ -1,0 +1,7 @@
+\\b-c1-fc3.serc.ac.uk\Users3\Students\M\MAN40071071\Programming tools\Hello World\Hello World\bin\Debug\Hello World.exe.config
+\\b-c1-fc3.serc.ac.uk\Users3\Students\M\MAN40071071\Programming tools\Hello World\Hello World\bin\Debug\Hello World.exe
+\\b-c1-fc3.serc.ac.uk\Users3\Students\M\MAN40071071\Programming tools\Hello World\Hello World\bin\Debug\Hello World.pdb
+\\b-c1-fc3.serc.ac.uk\Users3\Students\M\MAN40071071\Programming tools\Hello World\Hello World\obj\Debug\Hello World.csprojAssemblyReference.cache
+\\b-c1-fc3.serc.ac.uk\Users3\Students\M\MAN40071071\Programming tools\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+\\b-c1-fc3.serc.ac.uk\Users3\Students\M\MAN40071071\Programming tools\Hello World\Hello World\obj\Debug\Hello World.exe
+\\b-c1-fc3.serc.ac.uk\Users3\Students\M\MAN40071071\Programming tools\Hello World\Hello World\obj\Debug\Hello World.pdb
